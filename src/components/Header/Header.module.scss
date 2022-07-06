@@ -1,0 +1,28 @@
+.page_header {
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  height: 72px;
+  background-color: rgb(243, 234, 234);
+}
+
+.page_logo {
+  margin-left: 375px;
+  margin-right: 978px;
+}
+
+.page_profile {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.page_human {
+  margin-left: 8px;
+  margin-right: 375px;
+  font-family: 'Jost';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 24px;
+}
